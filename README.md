@@ -5,7 +5,7 @@ Each section introduces a specific concept, ranging from basic syntax to more ad
 
 Link to the original video:
 <a href="https://youtu.be/-TkoO8Z07hI?si=fnpnBnzD5A6bBndW" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="80">
 </a>
 
 ---
