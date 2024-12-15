@@ -1,4 +1,4 @@
-# C++ Tutorial Source Code Descriptions
+# C++ II Description:
 
 Welcome to the C++ source code for Bro Code's tutorial ! This README contains a detailed description of each section of the tutorial along with its corresponding source code.
 Each section introduces a specific concept, ranging from basic syntax to more advanced features such as object-oriented programming (OOP).
