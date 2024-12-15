@@ -4,7 +4,10 @@ Welcome to the C++ source code for Bro Code's tutorial ! This README contains a 
 Each section introduces a specific concept, ranging from basic syntax to more advanced features such as object-oriented programming (OOP).
 
 Link to the original video:
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=-TkoO8Z07hI)
+<a href="https://youtu.be/-TkoO8Z07hI?si=fnpnBnzD5A6bBndW" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" height="100">
+</a>
+
 ---
 
 ## 1. Setup and Hello World 👨‍💻  
