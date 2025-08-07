@@ -8,20 +8,21 @@ int main(){
     std::getline(std::cin, name);
 
     // // length
-    // if(name.length() > 12){
-    //     std::cout << "Your name can't be over 12 characters!";
-    // } else {
-    //     std::cout << "Welcome " << name << "!";
-    // }
+    if(name.length() > 12)
+    {
+        std::cout << "Your name can't be over 12 characters!";
+    } else {
+        std::cout << "Welcome " << name << "!";
+    }
 
     // // empty, returns bool
-    // if(name.empty()){
-    //     std::cout << "You didn't enter a name!";
-    // } else {
-    //     std::cout << "Welcome " << name << "!";
-    // }
+    if(name.empty())
+    {
+        std::cout << "You didn't enter a name!";
+    } else {
+        std::cout << "Welcome " << name << "!";
+    }
 
-    // return 0;
 
     // .clear()
 
