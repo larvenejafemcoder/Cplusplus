@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main() {
-    char op;
-    double num1;
-    double num2;
+    char op; //declare operator
+    double num1; //declare firsat number, has to be a float/double so (-) could be accepted
+    double num2; //the same but with the 2nd number
     double result;
 
     std::cout << "********************* CALCULATOR *********************\n";
@@ -40,4 +40,5 @@ int main() {
 
 
     std::cout << "********************* FINISHED *********************\n";
+    return 0;
 }
