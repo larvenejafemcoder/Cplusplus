@@ -1,4 +1,3 @@
-// &&, ||, !
 #include <iostream>
 
 int main()
@@ -9,18 +8,23 @@ int main()
 
 
     int temp;
-    bool sunny = false;
+    bool sunny = true;
 
     std::cout << "Enter the temperature: ";
     std::cin >> temp;
 
-    if (temp <= 0 || temp >= 30){
-        std::cout << "The weater sucks today.\n";
-    } else {
-        std::cout << "The temperature is good!\n";
+    if (temp > 0 && temp < 30){
+        std::cout << "The weater kinda sucks today.\n";
+        sunny = false;
+    }else if(temp > 30 || temp < 45) {
+        std::cout << "Alrighty the weather is good.\n";
+    }
+    else {
+        std::cout << "How tf YOU LIVING ? WITH THAT WEATHER!\n";
+        sunny = true;
     }
 
-    if (!sunny) {
+    if (sunny) {
         std::cout << "It is sunny outside too.";
     } else {
         std::cout << "Where tf did the sun go?";
